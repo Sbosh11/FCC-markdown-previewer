@@ -48,6 +48,7 @@ overflow-y: auto;
 }
 .left {
   border: 2px solid #282c34;
+  overflow: hidden;
 }
 
 
@@ -58,7 +59,7 @@ height: 100%;
 border: none;
 outline:none;
 padding:0;
-overflow:hidden;
+
 
 }
 
